@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ckual.github.io/ghR/sitemap.ghR.gz
